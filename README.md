@@ -32,17 +32,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-> **Nota:** Estos widgets se actualizarán en tiempo real a medida que subas proyectos y hagas commits.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de José" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
 
 ---
 <p align="center">
