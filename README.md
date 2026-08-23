@@ -31,7 +31,7 @@
 </p>
 
 ---
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=josemig2718-stack&theme=midnight)
 
 ---
 <p align="center">
