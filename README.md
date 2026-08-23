@@ -31,8 +31,7 @@
 </p>
 
 ---
-![GitHub Stats Card](https://ghstats.dev/api/card?username=josemig2718-stack&theme=midnight)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=josemig2718-stack&theme=midnight&size=compact)
 ---
 <p align="center">
   <i>Construyendo el futuro, un bloque de código a la vez.</i> 💻
